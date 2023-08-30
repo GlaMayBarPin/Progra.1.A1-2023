@@ -44,7 +44,7 @@ namespace Parcial_I___Progra_I
                 new double[]{ 0.09290304, 0.698896, 0.836127, 1, 437.5 , 7000, 10.000, },
                 };
 
-            respuesta = Pie[cboTipoConversor.SelectedIndex][a] / Pie[cboTipoConversor.SelectedIndex][de] * cantidad;
+            respuesta = Pie[cboTipoConversor.SelectedIndex][de] / Pie[cboTipoConversor.SelectedIndex][a] * cantidad;
             lblRespuestaConversores.Text = "Respuesta:" + Math.Round(respuesta, 3);
         }
     }
