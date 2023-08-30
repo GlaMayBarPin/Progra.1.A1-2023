@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\bin\Debug\Parcial I - Progra I.exe.config
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\bin\Debug\Parcial I - Progra I.exe
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\bin\Debug\Parcial I - Progra I.pdb
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\obj\Debug\Parcial I - Progra I.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\obj\Debug\Parcial_I___Progra_I.Form1.resources
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\obj\Debug\Parcial_I___Progra_I.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\obj\Debug\Parcial I - Progra I.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\obj\Debug\Parcial I - Progra I.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\obj\Debug\Parcial I - Progra I.exe
+C:\Users\Admin\OneDrive - Universidad Gerardo Barrios\Documentos\progra1-A2-2023[1]\progra1-A2-2023\Parcial I - Progra I\obj\Debug\Parcial I - Progra I.pdb
