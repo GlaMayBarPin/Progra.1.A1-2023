@@ -1,0 +1,15 @@
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\bin\Debug\proveedores.mdf
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\bin\Debug\proveedores_log.ldf
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\bin\Debug\LACTEOS.exe.config
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\bin\Debug\LACTEOS.exe
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\bin\Debug\LACTEOS.pdb
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.exe
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.pdb
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.Proveedores.resources
+C:\Users\Admin\Source\Repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.Form2.resources
+C:\Users\Admin\source\repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.Form3.resources
+C:\Users\Admin\source\repos\Progra.1.A1-2023\progra1-A2-2023\LACTEOS\obj\Debug\LACTEOS.Form4.resources
